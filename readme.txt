@@ -4,4 +4,4 @@
 
 docker images:查看本地Docker镜像
 
-heroku
+heroku logs --app iris-app 查看记录
